@@ -9,4 +9,3 @@ Not sure what to write here so stuck with the GitHub template.
 - 📫 How to reach me: my details are located in my personal profile bio.
 - ⚡ Fun fact: I am currently Studying Computing and Mathematics in year 12.
 -🛫 Languages: Languages that I have programmed in are located in starred topics.
--
