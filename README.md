@@ -13,4 +13,4 @@ Not sure what to write here so stuck with the GitHub template.
 
 
 
-<img src = https://www.codewars.com/users/Numb11/badges/large>
+<img src = https://www.codewars.com/users/Numb11/badges/large href = https://www.codewars.com/users/Numb11/completed_solutions>
