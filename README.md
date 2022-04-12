@@ -9,3 +9,8 @@ Not sure what to write here so stuck with the GitHub template.
 - 📫 How to reach me: My details are located in my personal profile bio.
 - ⚡ Fun fact: I am currently Studying Computing and Mathematics in year 12.
 - 🛫 Languages: Languages that I have programmed in are located in my starred topics.
+
+
+
+
+https://www.codewars.com/users/Numb11/badges/large
