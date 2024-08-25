@@ -12,7 +12,7 @@ I'm currently learning C and web development technologies.
 
 <a href src = https://ojs.ukscip.com/journals/dtra/article/view/259/226> Raspberry-PI based Design of An Interactive Smart Mirror for
 Daily Life </a>
-<br><>/br
+<br></br>
 
 **Codewars**
 
