@@ -5,13 +5,13 @@ I am a first year undergraduate student studying a BSc course in Computer Scienc
 
 I'm currently learning C and web development technologies.
 
-<a href src = https://www.linkedin.com/in/joe-lyons-395373267/>My LinkedIn</a>
+[My LinkedIn](https://www.linkedin.com/in/joe-lyons-395373267/)
 
 <br></br>
 **Publications**
 
-<a href src = https://ojs.ukscip.com/journals/dtra/article/view/259/226> Raspberry-PI based Design of An Interactive Smart Mirror for
-Daily Life </a>
+[Raspberry-PI based Design of An Interactive Smart Mirror for
+Daily Life](https://ojs.ukscip.com/journals/dtra/article/view/259/226)
 <br></br>
 
 **Codewars**
