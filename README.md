@@ -7,12 +7,12 @@ I'm currently learning C and web development technologies.
 
 <a href src = https://www.linkedin.com/in/joe-lyons-395373267/>My LinkedIn</a>
 
-
+<br></br>
 **Publications**
 
 <a href src = https://ojs.ukscip.com/journals/dtra/article/view/259/226> Raspberry-PI based Design of An Interactive Smart Mirror for
 Daily Life </a>
-
+<br><>/br
 
 **Codewars**
 
