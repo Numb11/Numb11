@@ -9,8 +9,8 @@ I'm currently learning C and web development technologies.
 
 **Publications**
 
-<a href src = https://ojs.ukscip.com/journals/dtra/article/view/259/226> Raspberry-PI based Design of An Interactive Smart Mirror for
-Daily Life </a>
+<ul><a href src = https://ojs.ukscip.com/journals/dtra/article/view/259/226> Raspberry-PI based Design of An Interactive Smart Mirror for
+Daily Life </a><ul>
 
 **Codewars**
 
