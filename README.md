@@ -3,7 +3,7 @@
 
 I am a second year undergraduate student studying a BSc course in Computer Science at Liverpool John Moores University.
 
-I'm currently learning C and web development technologies.
+I'm currently focussing on my degree studies.
 
 [My LinkedIn](https://www.linkedin.com/in/joe-lyons-395373267/)
 
