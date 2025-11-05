@@ -1,7 +1,7 @@
 ### Hi 👋,
 
 
-I am a second year undergraduate student studying a BSc course in Computer Science at Liverpool John Moores University.
+I am a third year undergraduate student studying a BSc course in Computer Science at Liverpool John Moores University.
 
 I'm currently focussing on my degree studies.
 
