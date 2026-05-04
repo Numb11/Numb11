@@ -11,6 +11,7 @@ Graduate of a BSc (Hons) in Computer Science with a focus on AI automation and a
 Daily Life](https://ojs.ukscip.com/journals/dtra/article/view/259/226)
 <br></br>
 
-**Codewars**
-
+**Competitive Programming**
+<br></br>
+<h2>Codewars:</h2>
 <img src = https://www.codewars.com/users/Numb11/badges/large>
