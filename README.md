@@ -1,6 +1,6 @@
 ### Hi 👋,
 
-I am a graduate of a BSc (Hons) in Computer Science and looking to develop my portfolio through collaboration and perosnal proejcts.
+Graduate of a BSc (Hons) in Computer Science with a focus on AI automation and a soft spot for Robotics and IoT.
 
 [My LinkedIn](https://www.linkedin.com/in/joe-lyons-395373267/)
 
