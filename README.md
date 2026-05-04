@@ -1,9 +1,6 @@
 ### Hi 👋,
 
-
-I am a third year undergraduate student studying a BSc course in Computer Science at Liverpool John Moores University.
-
-I'm currently focussing on my degree studies.
+I am a graduate of a BSc (Hons) in Computer Science and looking to develop my portfolio through collaboration and perosnal proejcts.
 
 [My LinkedIn](https://www.linkedin.com/in/joe-lyons-395373267/)
 
