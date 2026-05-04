@@ -13,5 +13,5 @@ Daily Life](https://ojs.ukscip.com/journals/dtra/article/view/259/226)
 
 **Competitive Programming**
 <br></br>
-<h2>Codewars:</h2>
+Codewars:
 <img src = https://www.codewars.com/users/Numb11/badges/large>
